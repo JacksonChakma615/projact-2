@@ -27,6 +27,14 @@
         border: none;
     }
 
+    /* header style */
+
+    .header{
+        background-image:url("../images/developer.png"), url("../images/header_bg.png"); 
+        background-repeat: no-repeat;
+        background-position:  right;
+
+    }
 
 /* nav style */ 
 nav{
@@ -61,7 +69,16 @@ nav li a {
 
 /* banear-style */
 
+.banear{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 230px ;
+}
 
+.banear-content{
+
+    max-width: 580px;
+}
 
 .banear-gritings{
     font-size: 45px;
