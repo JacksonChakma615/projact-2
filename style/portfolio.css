@@ -58,3 +58,24 @@ nav li a {
     font-size: 20px;
 
 }
+
+/* banear-style */
+
+
+
+.banear-gritings{
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.banear-title{
+    font-weight: bold;
+    font-size: 85px;
+
+}
+
+.banear-profile-picher{
+
+    width: 580px;
+}
+
